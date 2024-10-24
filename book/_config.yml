@@ -23,7 +23,7 @@ sphinx:
       use_repository_button: true
       use_issues_button : true
       launch_buttons:
-        jupyterhub_url: https://eurocsdms.ewatercycle-tud.src.surf-hosted.nl/
+        jupyterhub_url: https://eurocsdms.ewatercycle-tud.src.surf-hosted.nl/jupyter
         notebook_interface: "jupyterlab"
         thebe: false
 

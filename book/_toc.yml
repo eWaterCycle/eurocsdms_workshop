@@ -4,7 +4,7 @@ root: intro.md
 parts:
   - caption: Contents
     chapters:
-    - file: some_content/overview.md
+    - file: oneModel/oneModel.md
       sections:
-      - file: some_content/text_and_code.ipynb
+      - file: oneModel/example_model_run_HBV.ipynb
     - file: references.md

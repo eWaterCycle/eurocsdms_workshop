@@ -7,4 +7,9 @@ parts:
     - file: oneModel/oneModel.md
       sections:
       - file: oneModel/example_model_run_HBV.ipynb
+    - file: oneModel/additionalExperiments.md
+      sections:
+      - file: oneModel/pcrglobwb/example_model_run_pcrglobwb.ipynb
+      - file: oneModel/example_model_run_HBV_CMIP_forcing.ipynb
+      - file: oneModel/calibration_HBV/example_calibrate_HBV.ipynb
     - file: references.md

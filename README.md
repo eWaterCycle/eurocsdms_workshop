@@ -12,6 +12,6 @@ During the workshop the notebooks can be run on a Jupter Lab server. However, th
 
 If you are reading this page and are interested in running these notebooks, you can either:
 
-- setup your own server that runs eWaterCycle (or install it on a big enough laptop / desktop computer). See the information on this topic in the [ewatercycle documentation](https://ewatercycle.readthedocs.io/en/latest/system_setup.html) on how to setup eWaterCycle
+- setup your own server that runs eWaterCycle (or install it on a big enough laptop / desktop computer). See the [eWaterCycle documentation](https://ewatercycle.readthedocs.io/en/latest/system_setup.html) on how to setup eWaterCycle
 - send us an email at [questions@ewatercycle.org](mailto:questions@ewatercycle.org) where you explain your interest in eWaterCycle and we can (hopefully) help you further.
 - in the near future we hope to provide access to eWaterCycle through other platforms such as the UKCEH's [Datalabs](https://datalab.datalabs.ceh.ac.uk/) as well as the Destination Earth platform of the European Union. Stay tuned!

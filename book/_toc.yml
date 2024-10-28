@@ -10,4 +10,3 @@ parts:
       - file: oneModel/additional/example_model_run_HBV_CMIP_forcing.ipynb
       - file: oneModel/additional/calibration_HBV/example_calibrate_HBV.ipynb
       - file: oneModel/additional/pcrglobwb/example_model_run_pcrglobwb.ipynb
-    - file: references.md
